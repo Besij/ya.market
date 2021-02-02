@@ -1,0 +1,29 @@
+1611256830523	geckodriver	INFO	Listening on 127.0.0.1:50292
+1611256831466	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y4/4ndplpmj23x9g_v9wchqkqmc0000gn/T/rust_mozprofileDhOEDx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611256836434	Marionette	INFO	Listening on port 50303
+1611256836539	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/, line 753: ReferenceError: oscar is not defined
+1611256838807	Marionette	INFO	Stopped listening on port 50303
+1611349225230	geckodriver	INFO	Listening on 127.0.0.1:56418
+1611349226247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y4/4ndplpmj23x9g_v9wchqkqmc0000gn/T/rust_mozprofilet9x7p3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611349231609	Marionette	INFO	Listening on port 56430
+1611349231648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611349236454	Marionette	INFO	Stopped listening on port 56430
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/y4/4ndplpmj23x9g_v9wchqkqmc0000gn/T/rust_mozprofilet9x7p3/protections.sqlite
+1611349237118	geckodriver	INFO	Listening on 127.0.0.1:56546
+1611349238126	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/y4/4ndplpmj23x9g_v9wchqkqmc0000gn/T/rust_mozprofilejtsnVe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611349240837	Marionette	INFO	Listening on port 56559
+1611349240922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611349247135	Marionette	INFO	Stopped listening on port 56559
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/y4/4ndplpmj23x9g_v9wchqkqmc0000gn/T/rust_mozprofilejtsnVe/protections.sqlite
